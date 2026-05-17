@@ -202,7 +202,8 @@ assertions. Give me 3 hard questions that test the integrity of this text."
 
 This library is actively designed, tested, and updated by **Kainat Nadeem**. Connect across my social ecosystems for daily workflow drops, systems engineering notes, and professional networking.
 
-💼 [Connect on LinkedIn](#)
+💼 [Connect on LinkedIn](https://www.linkedin.com/in/kainat-nadeem-a9408b324/)
+
 
 ---
 
